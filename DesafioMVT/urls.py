@@ -22,3 +22,4 @@ urlpatterns = [
     # Se asigna el path a la view
     path('', listadoFamiliares)
 ]
+asd
